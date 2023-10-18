@@ -1,0 +1,3 @@
+
+rootProject.name = "mipt-kotlin"
+
